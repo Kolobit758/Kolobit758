@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="./22b22287602523.5dbd29081561d.gif" width="100%" />
+  <img src="./22b22287602523.5dbd29081561d.gif" width="100%" height="400" />
 </p>
 
+<table><tr><td bgcolor="#0EA5E9">
 Hi My name is KOBCHOK BUANAK
 ===============================
 
@@ -21,9 +22,6 @@ Student - Thaksin University Demonstration Secondary School | C# unity , PHP , H
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Kolobit758" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.facebook.com/kobchok.buanak.7/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-### Badges
+<p align="left" background-color="#FFFFFF"> <a href="https://www.github.com/Kolobit758" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.facebook.com/kobchok.buanak.7/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Kolobit758"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kolobit758&stroke=0f172a&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=0f172a&currStreakLabel=22c55e&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+</td></tr></table>
