@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./background.gif" width="100%" />
+</p>
+
 Hi My name is KOBCHOK BUANAK
 ===============================
 
