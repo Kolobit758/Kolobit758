@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/📚_Currently_Learning-Kotlin_%7C_C%23-8E2DE2?style=flat-square&labelColor=2d0140"/>
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=650&lines=I+will+seize+every+opportunity+to+become+the+best+version+of+myself...;...one+that+brings+value+to+others." alt="Typing SVG" />
+</p>
 
 <h3 align="left">🛠️ Skills</h3>
 <p align="left">
@@ -38,13 +40,6 @@
   <img src="https://img.shields.io/badge/Facebook-Profile-8E2DE2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2d0140"/>
 </a>
 </p>
-
-
-<p align="left" style="color:#FF66C4;">
-💬 <b>Quote : </b> I will seize every opportunity to become the best version of myself—one that brings value to others.
-</p>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:8E2DE2&height=100&section=footer" width="100%"/>
