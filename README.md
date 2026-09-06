@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF0080&height=220&section=header&text=KOBCHOK%20BUANAK&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20C%23%20Unity%20%2F%20PHP%20%2F%20HTML%20%2F%20CSS(Bootstrap)&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
-
-
 <h2 align="center">✨ Student ✨</h2>
 
 <p align="center">
@@ -18,9 +16,7 @@
   <img src="https://img.shields.io/badge/📚_Currently_Learning-Kotlin_%7C_C%23-8E2DE2?style=flat-square&labelColor=2d0140"/>
 </p>
 
-<p align="left" style="color:#FF66C4;">
-💬 <b>Ask me about:</b> I will seize every opportunity to become the best version of myself—one that brings value to others.
-</p>
+
 
 <h3 align="left">🛠️ Skills</h3>
 <p align="left">
@@ -41,6 +37,11 @@
 <a href="https://www.facebook.com/kobchok.buanak.7/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Facebook-Profile-8E2DE2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2d0140"/>
 </a>
+</p>
+
+
+<p align="left" style="color:#FF66C4;">
+💬 <b>Quote : </b> I will seize every opportunity to become the best version of myself—one that brings value to others.
 </p>
 
 
